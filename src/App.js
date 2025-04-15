@@ -1,9 +1,9 @@
 import { Route, Routes } from "react-router-dom";
 import pages from "./utils/pages";
 import Layout from "./components/layout/Layout";
-import Home from "./components/pages/Home";
-import Bookings from "./components/pages/Bookings";
-import ConfirmedBooking from "./components/pages/Bookings/ConfirmedBooking";
+import Home from "./components/pages/Homepage";
+import Bookings from "./components/pages/BookingPage";
+import ConfirmedBooking from "./components/pages/BookingPage/ConfirmedBooking";
 import NotFound from "./components/pages/NotFound";
 
 const App = () => {
