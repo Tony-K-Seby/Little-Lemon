@@ -14,16 +14,16 @@ const customers = [
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
   },
   {
-    fullName: "Antony Clifton",
-    image: customer2Image,
-    rating: [1, 1, 1, 1, 1],
+    fullName: "Tamika Jackson",
+    image: customer3Image,
+    rating: [1, 1, 1, 0.5, 0],
     says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
   },
   {
-    fullName: "Tamika Jackson",
-    image: customer3Image,
-    rating: [1, 1, 1, 1, 0.5],
+    fullName: "Antony Clifton",
+    image: customer2Image,
+    rating: [1, 1, 1, 1, 1],
     says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
       eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
   },
